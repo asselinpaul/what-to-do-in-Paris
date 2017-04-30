@@ -1,1 +1,1 @@
-![cover](what-to-do-in-Paris/paris-pdf.jpg "")
+![cover](paris-pdf.jpg "")
